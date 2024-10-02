@@ -1,0 +1,56 @@
+.text-sm {
+    font-size: 12px;
+  }
+  .text-md {
+    font-size: 14px;
+  }
+  .text-white {
+    color: white;
+  }
+  .align-div {
+    text-align: center;
+  }
+  .text-gray {
+    color: gray;
+  }
+  .form-button-style {
+    padding: 12px;
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 8px;
+    cursor: pointer;
+    color: white;
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  .form-button-style:hover {
+    color: yellow;
+  }
+  .form-card-divider {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+  }
+  .form-card-wraper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 12px;
+  }
+  .form-card {
+    background-color: #0000004f;
+    padding: 20px;
+    border-radius: 20px;
+    width: 500px;
+    box-shadow: 0px 1px 12px 7px #add8e614;
+    min-height: 415px;
+  }
+
+  .input-style {
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 10px;
+    outline: 1px solid #3636e7;
+    width: 100%;
+  }

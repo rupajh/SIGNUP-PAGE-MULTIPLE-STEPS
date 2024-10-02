@@ -1,0 +1,29 @@
+.btn-step-style {
+    display: flex;
+    gap: 15px;
+  }
+  .language-selection:hover {
+    color: yellow;
+  }
+
+  .language-selection {
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+  }
+  .language-flag{
+      margin-right: 10px;
+  }
+  .step5-language-wraper-div{
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin-top: 15px;
+  }
+  .input-margin{
+      margin-top: 10px;
+      margin-bottom: 10px;
+  }
